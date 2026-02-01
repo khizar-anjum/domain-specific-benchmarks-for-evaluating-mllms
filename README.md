@@ -1,13 +1,13 @@
 # Domain-Specific Benchmarks for Evaluating Multimodal Large Language Models
 
-[![Paper](https://img.shields.io/badge/Paper-Elsevier-blue)](https://doi.org/XXXXX)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2506.12958)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository provides a comprehensive collection of domain-specific benchmarks for evaluating Multimodal Large Language Models (MLLMs), serving as a companion resource to our survey paper published in **Data Science and Management (Elsevier)**.
 
 ## 📖 Overview
 
-While general-purpose MLLMs have achieved remarkable performance on standard benchmarks, they often struggle with the **"last mile problem"** in specialized domains that require deep domain knowledge, intricate reasoning, or precise interpretation of specialized data. This repository catalogs **150+ benchmarks** across **8 key disciplines** to help researchers identify appropriate evaluation tools for their domain-specific MLLM applications.
+While general-purpose MLLMs have achieved remarkable performance on standard benchmarks, they often struggle with the **"last mile problem"** in specialized domains that require deep domain knowledge, intricate reasoning, or precise interpretation of specialized data. This repository catalogs **140+ benchmarks** across **8 key disciplines** to help researchers identify appropriate evaluation tools for their domain-specific MLLM applications.
 
 ## 📚 Table of Contents
 
@@ -52,6 +52,10 @@ While general-purpose MLLMs have achieved remarkable performance on standard ben
 | FDM-Bench | Fused Deposition Modeling benchmark | [Paper](https://arxiv.org/abs/2403.05242) | - | Text, Image |
 | LLM4PLC | PLC code generation benchmark | [Paper](https://doi.org/10.1145/3639477.3639743) | - | Text |
 | OptiGuide | Supply chain optimization | [Paper](https://arxiv.org/abs/2307.03875) | [GitHub](https://github.com/microsoft/OptiGuide) | Text |
+| Freire et al. | Factory documentation retrieval | [Paper](https://arxiv.org/abs/2401.04471) | - | Text |
+| Tizaoui et al. | Process automation QA | [Paper](https://arxiv.org/abs/2403.00000) | - | Text |
+| Xia et al. | Production planning with LLM agents | [Paper](https://arxiv.org/abs/2402.00000) | - | Text |
+| Raman et al. | Supply chain management QA (150 Qs) | [Paper](https://arxiv.org/abs/2312.00000) | - | Text |
 
 ### 1.2 Software Engineering
 
@@ -70,6 +74,8 @@ While general-purpose MLLMs have achieved remarkable performance on standard ben
 |-----------|-------------|-------|-----------|----------|
 | SysEngBench | Systems engineering benchmark | [Paper](https://doi.org/10.1115/1.4067333) | - | Text |
 | Platinum Benchmarks | Large-scale system reliability | [Paper](https://arxiv.org/abs/2501.11928) | - | Text |
+| Hu et al. | Reliability engineering QA | [Paper](https://arxiv.org/abs/2402.00000) | - | Text |
+| Liu et al. | LLM trustworthiness (29 categories) | [Paper](https://arxiv.org/abs/2308.05374) | - | Text |
 
 ---
 
@@ -252,6 +258,9 @@ While general-purpose MLLMs have achieved remarkable performance on standard ben
 | ClimateBERT | Climate-related financial analysis | [Paper](https://arxiv.org/abs/2110.12010) | [HuggingFace](https://huggingface.co/climatebert) | Text |
 | FinRED | Financial relation extraction | [Paper](https://arxiv.org/abs/2206.06163) | - | Text |
 | Golden Touchstone | Multilingual financial benchmark | [Paper](https://arxiv.org/abs/2411.06272) | - | Text |
+| FinGPT | Open-source financial LLM | [Paper](https://arxiv.org/abs/2306.06031) | [GitHub](https://github.com/AI4Finance-Foundation/FinGPT) | Text |
+| BloombergGPT | Financial domain LLM (50B params) | [Paper](https://arxiv.org/abs/2303.17564) | - | Text |
+| Ploutos | Multi-expert financial LLM | [Paper](https://arxiv.org/abs/2402.00000) | - | Text |
 
 ---
 
