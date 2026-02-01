@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2506.12958)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository provides a comprehensive collection of domain-specific benchmarks for evaluating Multimodal Large Language Models (MLLMs), serving as a companion resource to our survey paper published in **Data Science and Management (Elsevier)**.
+This repository provides a comprehensive collection of domain-specific benchmarks for evaluating Multimodal Large Language Models (MLLMs), serving as a companion resource to our survey paper currently under review at **Data Science and Management (Elsevier)**.
 
 ## 📖 Overview
 
@@ -317,9 +317,9 @@ If you find this resource helpful, please cite our survey paper:
 @article{anjum2025domain,
   title={Domain Specific Benchmarks for Evaluating Multimodal Large Language Models},
   author={Anjum, Khizar and Arshad, Muhammad Arbab and Hayawi, Kadhim and Polyzos, Efstathios and Tariq, Asadullah and Serhani, Mohamed Adel and Batool, Laiba and Lund, Brady and Mannuru, Nishith Reddy and Bevara, Ravi Varma Kumar and Mahbub, Taslim and Akram, Muhammad Zeeshan and Shahriar, Sakib},
-  journal={Data Science and Management},
+  journal={arXiv preprint arXiv:2506.12958},
   year={2025},
-  publisher={Elsevier}
+  note={Under review at Data Science and Management (Elsevier)}
 }
 ```
 
